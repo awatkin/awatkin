@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Pandas and matplotlib around the T-level Digital Production, Design and Development Specification
 - 📫 How to reach me adam.watkin@utcleeds.co.uk
 - 😄 Pronouns: he / him
-- ⚡ Fun fact: I have a passion for watching sci-fi.... but cannot read sci-fi books, need the visuals... Fantasy books and films are all good though!
+- ⚡ Fun fact: I fight for the users.... Flynn lives! 
 
 <!---
 awatkin/awatkin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
